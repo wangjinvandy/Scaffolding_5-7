@@ -3,6 +3,7 @@
 SPM12, ArtRepair, Marsbar toolbox are needed for these codes to run.
 
 #Preprocessing:
+main_phon.m is the main code for preprocessing. It calls the subfunctions in folder fmri_preproc_generic_mni, such as realignment, segmentation, normalization and smoothing
 
 #Firstlevel analysis:
 firstlevel_generate_phon.m is the first level analysis code. It calls the onsets, firstlevel_subfunctions folder. 
