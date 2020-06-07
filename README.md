@@ -17,4 +17,4 @@ folder spm includes the functions we modified in our project. In spm_default.m, 
 folder  art_repair includes the functions we used and modified in the preprocessing and firstlevel step to repair the volume with big movement and deweight these repaired images.
 
 #TPM Template:
-folder tpm shows the script of how we create our pediatric tpm template that was used to do segementation step in SPM12. We used cerebroMatic to create our pediatric templates. 
+mkpdtemplate_ELP.m shows how we create our pediatric tpm template that was used to do segementation step in SPM12. We used cerebroMatic to create our pediatric templates. 
